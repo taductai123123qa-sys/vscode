@@ -1,1 +1,23 @@
 cưceve
+1. Link tải JDK (Java 24 / JDK 21 / JDK 17)
+JDK 24 (Bản mới nhất - ZIP x64):
+
+[https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.zip](https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.zip)
+
+JDK 21 LTS (Khuyên dùng cho Spring Boot ổn định - ZIP x64):
+
+[https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip](https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.zip)
+
+(Hoặc gõ lệnh trong CMD máy cá nhân để tải JDK 24:)
+
+PowerShell
+curl -L -o jdk24.zip "https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.zip"
+2. Link tải Node.js (Cho Angular)
+Node.js LTS (Bản ổn định - ZIP x64):
+
+[https://nodejs.org/dist/v20.18.0/node-v20.18.0-win-x64.zip](https://nodejs.org/dist/v20.18.0/node-v20.18.0-win-x64.zip)
+
+(Hoặc gõ lệnh trong CMD máy cá nhân để tải Node.js:)
+
+PowerShell
+curl -L -o nodejs.zip "https://nodejs.org/dist/v20.18.0/node-v20.18.0-win-x64.zip"
